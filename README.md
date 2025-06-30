@@ -21,7 +21,7 @@ This project presents a simulation-based study of nanoscale ballistic field-effe
 - 15 nm offers best electrostatics (SS ~ 65 mV/dec), ideal for low-power applications.
 
 ## 📁 Files in This Repo
-- `EMD_Project_Report.docx`: Full formatted technical report
+- https://in.docworkspace.com/d/sID7C14jNAfi2i8MG?sa=601.1074: Full formatted technical report
 - `Graphs/`: Graph images (Id–Vd, Id–Vg)
 - `RawData/`: Simulation output from NanoHub
 - `README.md`: You’re reading it!
@@ -33,5 +33,5 @@ This project presents a simulation-based study of nanoscale ballistic field-effe
 
 ## 👨‍💻 Author
 Zaahir Ali Shaik  
-BTech ECE Core | Class of 2027  
-VIT | GitHub: [yourusername](https://github.com/yourusername)
+BTech ECE Core |
+| GitHub:Zaahix
